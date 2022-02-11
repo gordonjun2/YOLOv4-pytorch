@@ -34,8 +34,10 @@ class Trainer(object):
                  resume=False,
                  gpu_id=0,
                  accumulate=1,
-                 fp_16=False):
+                 fp_16=False,
+                 mstar=False):
         init_seeds(0)
+        self.mstar = mstar
         self.fp_16 = fp_16
         self.device = gpu.select_device(gpu_id)
         self.start_epoch = 0
@@ -44,6 +46,7 @@ class Trainer(object):
         self.weight_path = weight_path
         self.multi_scale_train = cfg.TRAIN["MULTI_SCALE_TRAIN"]
         self.showatt = cfg.TRAIN["showatt"]
+        
         if self.multi_scale_train:
             print("Using multi scales training")
         else:
@@ -320,6 +323,12 @@ if __name__ == "__main__":
     global logger, writer
     parser = argparse.ArgumentParser()
     parser.add_argument(
+        "--mstar",
+        action="store_true",
+        default=False,
+        help="use MSTAR dataset instead of the other provided",
+    ) 
+    parser.add_argument(
         "--weight_path",
         type=str,
         default="weight/mobilenetv2.pth",
@@ -364,4 +373,5 @@ if __name__ == "__main__":
         gpu_id=opt.gpu_id,
         accumulate=opt.accumulate,
         fp_16=opt.fp_16,
+        mstar=opt.mstar,
     ).train()

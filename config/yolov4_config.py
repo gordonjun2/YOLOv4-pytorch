@@ -16,7 +16,7 @@ ATTENTION = {"TYPE": "NONE"}  # attention type:SEnet、CBAM or NONE
 
 # train
 TRAIN = {
-    "DATA_TYPE": "VOC",  # DATA_TYPE: VOC ,COCO or Customer
+    "DATA_TYPE": "MSTAR",  # DATA_TYPE: VOC ,COCO, Customer, or MSTAR
     "TRAIN_IMG_SIZE": 416,
     "AUGMENT": True,
     "BATCH_SIZE": 1,
@@ -50,6 +50,11 @@ VAL = {
 Customer_DATA = {
     "NUM": 3,  # your dataset number
     "CLASSES": ["unknown", "person", "car"],  # your dataset class
+}
+
+MSTAR_DATA = {
+    "NUM": 10,  # your dataset number
+    "CLASSES": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],  # your dataset class
 }
 
 VOC_DATA = {
