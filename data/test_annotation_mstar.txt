@@ -1,0 +1,211 @@
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000676.jpg 4,166,118,281,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000677.jpg 88,100,210,219,5 5,391,100,507,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000678.jpg 6,7,120,117,1 133,300,257,428,3 75,436,192,552,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000679.jpg 73,451,186,566,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000680.jpg 3,468,104,585,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000681.jpg 21,2,134,117,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000682.jpg 229,167,337,279,4 203,280,319,395,6 251,470,353,574,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000683.jpg 304,162,422,280,2 383,276,487,390,5 308,387,426,508,6 365,497,475,592,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000684.jpg 386,258,488,377,2 362,471,493,590,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000685.jpg 4,501,120,594,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000686.jpg 62,464,184,583,3 371,469,493,592,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000687.jpg 56,100,180,227,4 88,311,203,424,7 213,463,333,579,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000688.jpg 2,76,92,197,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000689.jpg 13,1,137,124,2 227,441,338,554,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000690.jpg 52,148,186,284,1 256,423,371,540,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000691.jpg 243,41,363,158,3 296,238,410,354,6 307,486,424,592,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000692.jpg 122,145,249,265,5 166,274,275,383,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000693.jpg 18,252,139,375,2 12,386,133,504,5 162,439,285,560,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000694.jpg 8,2,131,122,2 260,62,377,178,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000695.jpg 362,163,471,274,3 319,399,443,522,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000696.jpg 153,347,280,473,1 171,473,288,586,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000697.jpg 170,490,282,589,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000698.jpg 268,193,381,308,6 317,307,434,430,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000699.jpg 9,8,123,120,5 8,357,124,481,8 426,425,492,549,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000700.jpg 172,4,290,121,3 109,263,222,381,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000701.jpg 15,137,131,261,7 2,431,77,549,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000702.jpg 19,476,130,587,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000703.jpg 0,230,85,351,3 23,461,129,570,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000704.jpg 101,395,213,516,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000705.jpg 165,118,278,233,1 9,208,114,320,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000709.jpg 122,419,244,540,5 299,467,422,587,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000710.jpg 395,1,489,122,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000712.jpg 363,320,472,435,4 364,462,478,574,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000713.jpg 11,414,124,528,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000714.jpg 192,387,316,507,2 9,466,116,572,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000715.jpg 291,475,404,586,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000716.jpg 366,293,476,404,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000717.jpg 59,470,176,576,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000718.jpg 355,80,478,198,2 49,430,158,537,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000719.jpg 345,20,470,142,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000720.jpg 10,9,124,122,7 80,246,213,380,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000721.jpg 12,203,126,322,3 114,264,207,368,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000722.jpg 90,165,197,277,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000723.jpg 323,185,430,307,7 391,393,491,517,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000724.jpg 8,275,105,397,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000725.jpg 108,118,229,237,2 184,298,294,413,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000726.jpg 143,306,265,422,9 112,409,231,522,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000727.jpg 95,1,217,102,1 6,162,119,283,3 109,245,218,353,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000728.jpg 273,0,394,91,2 145,30,262,148,6 1,78,110,206,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000729.jpg 3,102,116,225,2 25,483,147,588,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000731.jpg 155,350,277,469,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000732.jpg 170,521,284,596,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000733.jpg 386,488,489,593,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000735.jpg 439,508,496,592,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000736.jpg 397,2,492,117,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000738.jpg 380,220,493,335,1 289,474,411,590,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000739.jpg 10,6,122,111,3 22,108,111,197,4 4,193,76,306,5 412,317,490,425,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000740.jpg 222,103,347,228,3 139,299,254,416,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000741.jpg 2,345,81,463,2 5,477,97,580,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000742.jpg 3,3,88,105,1 237,340,349,457,4 304,462,400,578,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000743.jpg 316,4,427,100,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000744.jpg 418,29,492,155,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000745.jpg 6,1,126,121,1 363,457,449,545,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000746.jpg 272,37,385,154,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000747.jpg 270,468,386,579,5 376,498,481,591,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000748.jpg 192,65,297,176,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000749.jpg 63,121,182,238,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000750.jpg 4,431,91,546,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000751.jpg 5,1,126,103,6 117,474,233,590,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000752.jpg 177,229,295,349,4 5,462,108,583,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000753.jpg 307,332,421,450,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000755.jpg 47,429,172,558,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000756.jpg 211,154,334,277,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000757.jpg 374,467,489,584,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000758.jpg 2,488,95,597,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000759.jpg 42,55,164,179,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000760.jpg 78,258,197,379,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000761.jpg 125,2,248,114,1 263,49,375,165,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000762.jpg 1,2,93,103,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000763.jpg 411,1,493,86,6 386,279,495,391,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000765.jpg 296,502,404,593,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000766.jpg 118,2,229,63,3 6,284,114,396,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000769.jpg 225,309,340,422,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000770.jpg 377,468,487,576,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000771.jpg 351,474,457,577,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000772.jpg 366,40,477,151,4 3,255,116,371,8 19,371,128,482,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000773.jpg 116,487,228,593,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000774.jpg 211,203,326,321,3 183,312,288,421,4 193,458,297,567,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000775.jpg 1,90,84,205,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000776.jpg 130,421,219,516,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000777.jpg 7,499,83,588,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000778.jpg 0,486,81,584,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000779.jpg 289,522,383,597,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000780.jpg 295,529,382,602,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000781.jpg 340,3,452,85,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000782.jpg 373,73,480,181,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000783.jpg 78,532,166,595,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000784.jpg 22,16,123,111,3 65,142,167,240,4 230,248,348,363,6 370,257,460,351,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000785.jpg 343,372,447,476,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000786.jpg 3,236,120,351,4 340,485,448,591,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000787.jpg 215,5,329,92,1 30,189,150,308,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000788.jpg 423,343,493,463,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000789.jpg 190,313,303,425,2 372,415,488,524,6 413,504,488,593,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000791.jpg 40,264,149,381,3 53,461,155,564,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000792.jpg 376,225,489,347,5 341,467,453,581,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000793.jpg 67,449,170,559,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000794.jpg 30,61,145,175,1 232,160,343,280,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000795.jpg 130,40,248,156,6 4,123,88,232,9 72,427,182,532,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000796.jpg 105,112,222,222,3 41,524,134,603,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000797.jpg 7,42,121,151,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000798.jpg 158,155,265,263,4 221,264,314,373,5 412,320,492,432,7 212,400,317,505,8 230,483,322,583,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000799.jpg 83,477,188,589,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000800.jpg 1,480,71,590,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000801.jpg 2,499,81,592,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000802.jpg 377,9,482,111,5 400,130,491,223,6 15,441,128,553,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000803.jpg 387,500,493,593,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000804.jpg 5,180,96,277,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000805.jpg 270,312,373,414,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000806.jpg 319,474,428,584,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000808.jpg 67,16,162,118,8 415,256,495,357,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000809.jpg 21,483,124,588,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000810.jpg 382,479,489,586,1 281,518,379,590,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000811.jpg 182,370,300,483,3 118,449,223,558,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000812.jpg 168,215,288,333,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000813.jpg 345,450,469,575,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000814.jpg 22,378,127,486,7 123,389,223,488,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000815.jpg 146,366,255,483,6 387,494,491,595,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000816.jpg 115,2,231,98,3 351,24,463,134,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000817.jpg 343,379,451,484,5 4,496,90,590,6 368,517,489,595,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000818.jpg 70,113,192,233,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000819.jpg 7,103,110,205,1 3,202,100,298,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000820.jpg 1,361,78,460,1 4,516,102,596,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000821.jpg 42,19,149,123,2 10,470,122,587,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000822.jpg 162,176,288,298,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000823.jpg 383,2,489,106,4 111,524,223,598,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000824.jpg 89,1,185,82,5 1,503,91,597,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000825.jpg 0,9,84,113,8 21,273,112,367,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000826.jpg 140,2,247,104,3 19,41,119,142,4 278,245,369,338,7 295,344,394,447,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000827.jpg 204,11,310,111,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000828.jpg 295,63,404,167,5 2,165,74,274,6 18,362,118,469,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000829.jpg 346,255,459,372,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000830.jpg 11,475,119,587,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000831.jpg 140,131,270,263,8 38,451,141,559,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000832.jpg 293,12,402,115,3 275,401,384,514,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000833.jpg 295,376,398,481,6 210,461,305,559,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000834.jpg 130,49,240,156,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000836.jpg 1,511,110,597,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000837.jpg 9,64,116,165,6 14,200,105,294,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000838.jpg 97,490,204,592,2 297,491,402,592,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000839.jpg 263,6,385,91,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000840.jpg 80,522,194,596,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000841.jpg 72,412,177,517,1 42,506,167,595,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000842.jpg 418,403,496,521,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000843.jpg 133,526,237,602,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000844.jpg 66,269,176,390,2 154,345,251,452,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000845.jpg 1,484,102,591,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000846.jpg 0,408,81,516,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000847.jpg 277,5,379,108,6 364,190,466,302,7 91,503,200,597,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000848.jpg 421,6,497,106,1 20,480,132,596,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000849.jpg 394,140,493,260,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000850.jpg 287,227,413,360,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000851.jpg 285,152,380,254,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000852.jpg 20,508,127,595,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000853.jpg 0,1,107,83,1 0,96,81,210,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000854.jpg 365,176,463,276,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000855.jpg 377,2,480,90,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000856.jpg 361,165,471,281,2 419,315,495,435,3 47,478,165,595,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000857.jpg 366,5,473,117,3 2,162,56,287,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000858.jpg 3,47,87,160,4 220,262,340,380,5 3,396,78,517,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000859.jpg 374,341,484,451,3 22,485,134,592,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000860.jpg 396,5,492,122,1 237,215,362,330,4 271,320,375,436,8 20,499,120,591,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000861.jpg 369,96,479,203,6 265,526,376,600,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000862.jpg 2,187,87,307,1 0,295,79,410,5 5,416,104,523,9 9,511,108,593,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000863.jpg 13,10,111,103,1 76,80,176,182,4 14,230,117,336,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000864.jpg 432,223,495,326,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000865.jpg 96,310,211,424,7 208,466,330,582,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000866.jpg 151,20,269,139,3 307,214,427,334,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000867.jpg 23,0,122,82,2 110,303,227,420,4 373,436,484,548,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000868.jpg 13,383,110,479,1 7,488,115,594,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000869.jpg 5,299,111,405,4 160,462,269,567,6 35,493,139,593,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000870.jpg 113,91,228,209,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000871.jpg 1,459,78,579,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000872.jpg 335,73,432,170,2 195,457,300,563,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000873.jpg 12,7,121,115,2 29,194,144,303,4 18,328,110,414,6 9,401,107,507,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000874.jpg 66,515,170,593,3
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000875.jpg 9,169,103,272,3 373,494,479,587,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000876.jpg 20,11,148,130,3 365,349,466,454,5 266,475,368,576,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000877.jpg 156,76,276,199,5 372,422,483,530,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000878.jpg 263,12,368,120,1 24,340,132,444,6 18,471,117,573,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000879.jpg 6,294,123,410,4 178,464,295,580,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000880.jpg 43,4,163,117,5 162,111,263,210,6 356,167,484,288,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000881.jpg 1,476,85,588,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000882.jpg 418,7,495,105,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000883.jpg 102,52,215,165,5 398,142,493,257,7 273,478,394,582,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000884.jpg 379,388,485,499,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000885.jpg 378,10,479,110,1 277,279,381,387,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000886.jpg 296,167,401,274,2 255,302,372,415,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000887.jpg 183,244,296,358,5 6,482,108,590,7
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000888.jpg 416,283,499,397,1
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000889.jpg 5,4,110,111,3 112,358,235,474,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000890.jpg 186,81,300,190,1 205,354,328,480,5 107,472,219,580,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000891.jpg 360,340,473,448,2 259,477,377,589,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000892.jpg 343,284,449,393,6 225,366,344,485,8
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000893.jpg 1,42,88,164,2 235,403,338,504,6
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000894.jpg 128,3,244,106,1 53,370,164,482,2
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000895.jpg 144,145,263,260,3 76,386,194,506,4
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000896.jpg 85,12,196,115,4 4,66,91,187,6 155,470,270,579,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000897.jpg 223,214,349,337,5 11,409,120,523,9
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000898.jpg 360,46,478,160,2 10,223,133,347,0
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000899.jpg 100,222,216,345,2 220,275,341,393,5
+C:\Users\OJiaJun2\Desktop\YOLOv4-pytorch\data\MSTAR_detection\VOCdevkit2007\VOC2007\JPEGImages\000900.jpg 66,331,177,442,9

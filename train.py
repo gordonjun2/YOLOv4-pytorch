@@ -46,13 +46,16 @@ class Trainer(object):
         self.weight_path = weight_path
         self.multi_scale_train = cfg.TRAIN["MULTI_SCALE_TRAIN"]
         self.showatt = cfg.TRAIN["showatt"]
-        
+
+	if self.mstar:
+	    print("Using MSTAR dataset")
+
         if self.multi_scale_train:
             print("Using multi scales training")
         else:
             print("train img size is {}".format(cfg.TRAIN["TRAIN_IMG_SIZE"]))
         self.train_dataset = data.Build_Dataset(
-            anno_file_type="train", img_size=cfg.TRAIN["TRAIN_IMG_SIZE"]
+            self.mstar, anno_file_type="train", img_size=cfg.TRAIN["TRAIN_IMG_SIZE"]
         )
         self.epochs = (
             cfg.TRAIN["YOLO_EPOCHS"]

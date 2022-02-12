@@ -1,8 +1,8 @@
 numpy==1.17.3
 opencv-python-headless
-tqdm==4.31.1
+tqdm==4.38.0
 argparse
 tensorboardX
 pickleshare==0.7.5
 pycocotools
-
+mmcv
