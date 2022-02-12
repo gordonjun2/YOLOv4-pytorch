@@ -25,9 +25,9 @@ class Build_Dataset(Dataset):
             self.classes = cfg.VOC_DATA["CLASSES"]
         elif cfg.TRAIN["DATA_TYPE"] == "COCO":
             self.classes = cfg.COCO_DATA["CLASSES"]
-        elif:
-	    self.classes = cfg.MSTAR_DATA["CLASSES"]
-	else:
+        elif mstar:
+            self.classes = cfg.MSTAR_DATA["CLASSES"]
+        else:
             self.classes = cfg.Customer_DATA["CLASSES"]
         self.num_classes = len(self.classes)
         self.class_to_id = dict(zip(self.classes, range(self.num_classes)))
@@ -85,9 +85,9 @@ class Build_Dataset(Dataset):
             "test",
         ], "You must choice one of the 'train' or 'test' for anno_type parameter"
         if mstar:
-	    anno_path = os.path.join(cfg.DATA_PATH, anno_type + "_annotation_mstar.txt")
-	else:
-	    anno_path = os.path.join(
+            anno_path = os.path.join(cfg.DATA_PATH, anno_type + "_annotation_mstar.txt")
+        else:
+            anno_path = os.path.join(
                 cfg.DATA_PATH, anno_type + "_annotation.txt"
             )
         with open(anno_path, "r") as f:

@@ -47,8 +47,8 @@ class Trainer(object):
         self.multi_scale_train = cfg.TRAIN["MULTI_SCALE_TRAIN"]
         self.showatt = cfg.TRAIN["showatt"]
 
-	if self.mstar:
-	    print("Using MSTAR dataset")
+        if self.mstar:
+            print("Using MSTAR dataset")
 
         if self.multi_scale_train:
             print("Using multi scales training")
