@@ -65,6 +65,7 @@ class Trainer(object):
         self.eval_epoch = (
             30 if cfg.MODEL_TYPE["TYPE"] == "YOLOv4" else 50
         )
+        self.eval_epoch = 10
         self.train_dataloader = DataLoader(
             self.train_dataset,
             batch_size=cfg.TRAIN["BATCH_SIZE"],
@@ -285,7 +286,7 @@ class Trainer(object):
                     logger.info("val img size is {}".format(cfg.VAL["TEST_IMG_SIZE"]))
                     with torch.no_grad():
                         APs, inference_time = Evaluator(
-                            self.yolov4, showatt=self.showatt
+                            self.mstar, self.yolov4, showatt=self.showatt
                         ).APs_voc()
                         for i in APs:
                             logger.info("{} --> mAP : {}".format(i, APs[i]))

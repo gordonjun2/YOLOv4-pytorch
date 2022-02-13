@@ -14,7 +14,7 @@ current_milli_time = lambda: int(round(time.time() * 1000))
 
 
 class Evaluator(object):
-    def __init__(self, model=None, showatt=False):
+    def __init__(self, mstar, model=None, showatt=False):
         if cfg.TRAIN["DATA_TYPE"] == "VOC":
             self.classes = cfg.VOC_DATA["CLASSES"]
         elif cfg.TRAIN["DATA_TYPE"] == "COCO":
@@ -22,9 +22,14 @@ class Evaluator(object):
         else:
             self.classes = cfg.Customer_DATA["CLASSES"]
         self.pred_result_path = os.path.join(cfg.PROJECT_PATH, "pred_result")
-        self.val_data_path = os.path.join(
-            cfg.DATA_PATH, "VOCtest-2007", "VOCdevkit", "VOC2007"
-        )
+        if mstar:
+            self.val_data_path = os.path.join(
+                cfg.DATA_PATH, "MSTAR_detection", "VOCdevkit2007", "VOC2007"
+            )
+        else:
+            self.val_data_path = os.path.join(
+                cfg.DATA_PATH, "VOCtest-2007", "VOCdevkit", "VOC2007"
+            )
         self.conf_thresh = cfg.VAL["CONF_THRESH"]
         self.nms_thresh = cfg.VAL["NMS_THRESH"]
         self.val_shape = cfg.VAL["TEST_IMG_SIZE"]
@@ -221,10 +226,10 @@ class Evaluator(object):
             self.pred_result_path, "comp4_det_test_{:s}.txt"
         )
         cachedir = os.path.join(self.pred_result_path, "cache")
-        # annopath = os.path.join(self.val_data_path, 'Annotations', '{:s}.xml')
-        annopath = os.path.join(
-            self.val_data_path, "Annotations\\" + "{:s}.xml"
-        )
+        annopath = os.path.join(self.val_data_path, 'Annotations/', '{:s}.xml')
+        #annopath = os.path.join(
+        #    self.val_data_path, "Annotations\\" + "{:s}.xml"
+        #)
         imagesetfile = os.path.join(
             self.val_data_path, "ImageSets", "Main", "test.txt"
         )

@@ -25,8 +25,6 @@ class Build_Dataset(Dataset):
             self.classes = cfg.VOC_DATA["CLASSES"]
         elif cfg.TRAIN["DATA_TYPE"] == "COCO":
             self.classes = cfg.COCO_DATA["CLASSES"]
-        elif mstar:
-            self.classes = cfg.MSTAR_DATA["CLASSES"]
         else:
             self.classes = cfg.Customer_DATA["CLASSES"]
         self.num_classes = len(self.classes)

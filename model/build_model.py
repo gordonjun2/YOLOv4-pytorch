@@ -23,6 +23,8 @@ class Build_Model(nn.Module):
             self.__nC = cfg.VOC_DATA["NUM"]
         elif cfg.TRAIN["DATA_TYPE"] == "COCO":
             self.__nC = cfg.COCO_DATA["NUM"]
+        elif cfg.TRAIN["DATA_TYPE"] == "MSTAR":
+            self.__nC = cfg.MSTAR_DATA["NUM"]
         else:
             self.__nC = cfg.Customer_DATA["NUM"]
         self.__out_channel = cfg.MODEL["ANCHORS_PER_SCLAE"] * (self.__nC + 5)
