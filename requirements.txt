@@ -1,4 +1,4 @@
-numpy==1.17.3
+numpy==1.22.2
 opencv-python-headless
 tqdm==4.38.0
 argparse
